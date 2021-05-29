@@ -20,8 +20,8 @@ A fractal made with circles (and inversive geometry).
 
 ![Pappus Chain](pappus-chain.PNG)
 
-## Appolonian Gasket
+## Apollonian Gasket
 
 Taking the Pappus Chain to the next level.
 
-![Appolonian Gasket](appolonian-gasket.PNG)
+![Apollonian Gasket](apollonian-gasket.PNG)
